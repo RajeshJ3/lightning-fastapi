@@ -1,0 +1,10 @@
+# Folders
+__pycache__/
+env/
+
+# Files
+*.env.*
+*.env
+env.*
+.env
+*.pyc
